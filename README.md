@@ -1,5 +1,6 @@
 <strong>About My Project<br/></strong>
-Lumen Project API | desafio feito pela <b>(G Digital)</b>
+Lumen Project API | desafio feito pela </b><img src="https://gdigital.com.br/files/sites/6/2019/08/logo-g-.webp" alt="G Digital Logo" alt="Smiley face" width="60">
+
 
 <br/><b>Desafio:</b><br/>
 <br/>Lumen API:✓<br/>
