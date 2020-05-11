@@ -14,9 +14,9 @@ Lumen Project API | desafio feito pela <b>(G Digital)</b>
 <br/>Additonal Features, Notes:✖<br/> 
 
 
-<strong>Comando para iniciar o server no Terminal direto da ide VSC: <b>php -S localhost:8000</b></strong>
+<strong>Comando para iniciar o server no Terminal direto do VScode:<br/> <b>◅php -S localhost:8000▻</b></strong>
 
-Você pode ver em funcionamento aqui: <a href="http://ip-104-237-139-215.cloudezapp.io/">Lumen Project</a>
+Você pode vê-lo em funcionamento clicando aqui⇒ <a href="http://ip-104-237-139-215.cloudezapp.io/">Lumen Project</a>
 
 
 
