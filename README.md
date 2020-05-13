@@ -1,5 +1,5 @@
 <strong>About My Project<br/></strong>
-Lumen Project <a href="http://lumenvel-com.umbler.net/" target="_blank">API</a> | desafio feito pela </b><a href="https://gdigital.com.br/" target="_blank"><img src="https://gdigital.com.br/files/sites/6/2019/08/logo-g-.webp" alt="G Digital Logo" alt="Smiley face" width="60" target="_blank"></a>
+Lumen Project <a href="http://lumenvel-com.umbler.net/" target="_blank">API</a> | desafio feito pela </b><a href="https://gdigital.com.br/" target="_blank"><img src="https://gdigital.com.br/files/sites/6/2019/08/logo-g-.webp" alt="G Digital Logo" alt="G Digital" width="60" target="_blank"></a>
 
 
 <br/><b>Desafio:</b><br/>
